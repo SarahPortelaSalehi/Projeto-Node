@@ -1,17 +1,19 @@
 body { 
     font: 10pt; 
-    background-image: url(foto5.png);
+    background-image: url(wallpaper.png);
     background-size: 100%;
 }
 
 h1 { 
-    color: white;
+    color: black;
     font: 24pt;
+    font-family: Courier, monospace;
 }
 
 h2 {
-    color: white; 
+    color: black; 
     font: 18pt;
+    font-family: Courier, monospace;
 }
 
 h3 {
