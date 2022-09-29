@@ -1,0 +1,33 @@
+body { 
+    font: 10pt; 
+    background-image: url(foto5.png);
+    background-size: 100%;
+}
+
+h1 { 
+    color: white;
+    font: 24pt;
+}
+
+h2 {
+    color: white; 
+    font: 18pt;
+}
+
+h3 {
+    color: white; 
+    font: 14pt;
+}
+fieldset {
+    width: 500px;
+    margin: 0px auto;
+    background-color: rgba(1, 1, none, 0.692); 
+}
+
+form {
+    text-align: center;
+}
+
+button {
+    padding:30px;
+}
